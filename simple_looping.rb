@@ -1,6 +1,7 @@
 # REMEMBER: print your output to the terminal using 'puts'
 
 def loop_iterator(number_of_times)
+  iterator = (1..number_of_times).each
   loop do 
     puts iterator.next
     puts "Welcome to Flatiron School's Web Development Course!"
