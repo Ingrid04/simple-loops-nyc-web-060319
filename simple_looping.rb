@@ -24,7 +24,6 @@ def times_iterator(number_of_times)
    end
 end
 
-puts
 
 
 def while_iterator(number_of_times)
@@ -46,7 +45,6 @@ def until_iterator(number_of_times)
    end
 end
 
-puts
 # hint: use a counter to tell the until loop when to stop!
 
 def for_iterator(number_of_times)
