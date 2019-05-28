@@ -1,4 +1,4 @@
-filter_parameter_loggingrequire_relative './spec_helper'
+require_relative './spec_helper'
 
 describe 'Loops' do
   before(:each) do
