@@ -8,8 +8,6 @@ def loop_iterator(number_of_times)
   end
 end
 
-puts
-            
             # This and all the other methods take an argument of an integer 
             # The integer is the number of times the loops should puts out the phrase
             # How can we make sure the loop breaks once it has puts out the phrase the 
